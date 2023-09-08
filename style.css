@@ -1,0 +1,29 @@
+*{  background-color: #87CEEB;}
+.red{
+  width: 900px;
+  height: 600px;
+  background-color:#FF671F;
+  position: relative;
+  top: 20px;
+  left: 200px;
+}
+.white{
+  width: 900px;
+  height: 200px;
+  background-color: white;
+  position:absolute;
+  top: 200px;
+}
+.green{
+  width: 900px;
+  height: 200px;
+  background-color: #046A38;
+  position: absolute;
+  top: 400px;
+}
+.circul{
+  height: 200px;
+  position: absolute;
+  top: 200px;
+  left: 330px;
+}
